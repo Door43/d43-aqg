@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aqg:home|Door43 (aqg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aqg|d43-aqg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aqg/archive/master.zip|d43-aqg.zip]]
+
+**Recent Changes**
+{{changes>ns = aqg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aqg|Ethnologue data]]
+
